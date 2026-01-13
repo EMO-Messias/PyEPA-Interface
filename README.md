@@ -1,4 +1,4 @@
-# PyInterface - EPANET Network Reader
+# PyEPA Interface - EPANET Network Reader
 
 Projeto Python para leitura e conversão de arquivos INP (EPANET) para JSON estruturado.
 
